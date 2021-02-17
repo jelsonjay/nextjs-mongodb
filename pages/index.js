@@ -11,7 +11,7 @@ export default function Home({ myData }) {
       </Head>
       
       <main>
-      <h1>app</h1>
+      <h1>Next Mongodb App</h1>
       {myData && myData.map(item => (
       
       <div>
